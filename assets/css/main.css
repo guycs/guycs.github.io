@@ -3031,6 +3031,13 @@
 		border-top: 1px solid #dbdbdb;
 		padding-top: 3em;
 	}
+	#footer .contactus {
+		color: rgb(105, 113, 122);
+		font-size: 1.5em;
+		font-weight: bold;
+		margin: 0 0 2em 0;
+		padding: 0;
+	}
 
 	#footer .copyright {
 		color: #bbb;
