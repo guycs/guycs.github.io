@@ -1784,7 +1784,7 @@
 		}
 
 	section.wrapper, article.wrapper {
-		padding: 6em 0;
+		padding: 2.5em 0;
 	}
 
 		section.wrapper header, article.wrapper header {
@@ -2937,9 +2937,9 @@
 /* Banner */
 
 	#banner {
-		padding: 12em 0 1em 0;
-		background-image: url('../../images/banner.jpg');
-		background-size: repeat;
+		padding: 7em 0 1em 0;
+		background-image: url('../../images/banner-cropped.png');
+		background-size: 100%;
 		background-position: top;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
@@ -2948,7 +2948,7 @@
 	}
 
 		#banner h1 {
-			font-size: 3.5em;
+			font-size: 4em;
 			font-weight: 100;
 			color: #fff;
 			line-height: 1em;
@@ -2963,18 +2963,18 @@
 			padding-right: 20%;
 		}
 		#banner h3 {
-			font-size: 2em;
+			font-size: 1.4m;
 			color: rgba(255, 255, 255, 0.55);
-			padding-top: 2.5em;
-			padding-right: 12%;
+			padding-top: 0.4em;
+			padding-right: 17%;
 		}
 
 		#banner img{
 			position: absolute;
 			width: 20em;
-			height: 15em;
+			height: 11em;
 			top: 0em;
-			left:0em;
+			left:-1em;
 		}
 
 		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
